@@ -85,7 +85,7 @@ URL: ml.sage.codes
 
 ##### Setup
 
-- Moderen web browser 
+- Modern web browser 
 - Google account 
 
 
@@ -358,7 +358,7 @@ if .5
 
 Typically used for **classification**
 
-k-NN finds the `k` number of nearest data points and makes a `educated` guess based on the classifications of the nearest datapoint.
+k-NN finds the `k` number of nearest data points and makes an `educated` guess based on the classifications of the nearest datapoint.
 
 ![iris](irisknn.png)
 
@@ -382,8 +382,8 @@ There can be a lot of factors to consider, like the size of data, Labels, Accura
 
 But when you're first starting out It's important to think about your desired outcome(output of the model).   
 
-- Is it a number? Its probably a Regression problem.
-- Is it a class / label? Its probably a classification problem.
+- Is it a number? It's probably a Regression problem.
+- Is it a class / label? It's probably a classification problem.
 - Are you separating unlabeled data into groups? It’s probably a clustering problem.
 
 https://scikit-learn.org/stable/tutorial/machine_learning_map/
@@ -430,7 +430,7 @@ Pandas is often used to explore, clean, and visualize your data.
 
 #### [Numpy](http://www.numpy.org/)
 
-Numpy is often used for muulti dimensional array manipulation
+Numpy is often used for multi dimensional array manipulation
 
 #### [matplotlib](https://matplotlib.org/)
 
@@ -554,7 +554,7 @@ Transform your career with our immersive programs
 - [Data Science](http://bit.ly/dsiremote) (13 weeks) - 8/19/19 - 11/15/19
 
 
-#### Remote Part time fondations:
+#### Remote Part time foundations:
 
 - [Data Science Fundamentals: Intro to Python](https://www.eventbrite.com/e/data-science-fundamentals-intro-to-python-remote-708-725-tickets-63483954216) 7/8/19 - 7/25/19
 
